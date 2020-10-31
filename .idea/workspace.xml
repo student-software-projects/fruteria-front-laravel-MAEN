@@ -20,7 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4bd7f0-650a-4a03-a60e-884de017f232" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/estilo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/estilo2.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/estilo2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/landing/acercade.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/landing/acercade.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/landing/contacto.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/landing/contacto.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/landing/domicilios.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/landing/domicilios.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/landing/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/landing/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +59,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/student-software-projects/fruteria-front-laravel-MAEN" />
+      </set>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -159,9 +185,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../primer_proyecto/routes/web.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -171,6 +198,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\we\Documents\Laravel\fruteria-front-laravel\public" />
+      <recent name="C:\Users\we\Documents\Laravel\fruteria-front-laravel\resources\views\landing" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -194,6 +227,7 @@
       <workItem from="1603990034866" duration="1131000" />
       <workItem from="1604065507218" duration="5985000" />
       <workItem from="1604148150453" duration="5363000" />
+      <workItem from="1604161444801" duration="8221000" />
     </task>
     <servers />
   </component>
@@ -212,11 +246,14 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="309" y="42" key="#Inspections" timestamp="1603939871379">
+    <state x="309" y="42" key="#Inspections" timestamp="1604167081276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1603939871379" />
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1604167081276" />
     <state x="470" y="119" key="FileChooserDialogImpl" timestamp="1603939507716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

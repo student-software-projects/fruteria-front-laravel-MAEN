@@ -1,5 +1,4 @@
 @extends('layout.app')
-
 @section('content')
      <div class="blog-card">
         <div class="meta">
