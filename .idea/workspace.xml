@@ -188,7 +188,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../segunda_clase" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -227,7 +227,7 @@
       <workItem from="1603990034866" duration="1131000" />
       <workItem from="1604065507218" duration="5985000" />
       <workItem from="1604148150453" duration="5363000" />
-      <workItem from="1604161444801" duration="8221000" />
+      <workItem from="1604161444801" duration="8740000" />
     </task>
     <servers />
   </component>
@@ -254,10 +254,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1604167081276" />
-    <state x="470" y="119" key="FileChooserDialogImpl" timestamp="1603939507716">
+    <state x="470" y="119" key="FileChooserDialogImpl" timestamp="1604172225967">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="470" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603939507716" />
+    <state x="470" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604172225967" />
     <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1603923536900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
